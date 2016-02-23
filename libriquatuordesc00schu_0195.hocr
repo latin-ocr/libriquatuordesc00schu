@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libriquatuordesc00schu_0195.png"; bbox 0 0 2088 3606; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 837 60 863 106">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 837 60 863 106">
+     <span class='ocr_line' id='line_1_1' title="bbox 837 60 863 106; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 837 60 863 106; x_wconf 80' lang='lat'><em>3</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 487 55 1860 184">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 487 55 1860 184">
+     <span class='ocr_line' id='line_1_2' title="bbox 811 55 835 88; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 811 55 835 88; x_wconf 83' lang='lat'>2</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 487 123 1860 184; baseline 0.005 -19"><span class='ocrx_word' id='word_1_3' title='bbox 487 175 493 181; x_wconf 37' lang='lat'><strong><em>‘</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 569 123 817 177; x_wconf 86' lang='lat' dir='ltr'>-Medorum,</span> <span class='ocrx_word' id='word_1_5' title='bbox 864 126 1139 181; x_wconf 66' lang='lat' dir='ltr'><strong>Lacedaemon.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1222 123 1542 178; x_wconf 64' lang='lat' dir='ltr'>Macedonum-g.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1592 126 1860 184; x_wconf 67' lang='lat' dir='ltr'>&amp;Lydorum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 8 123 373 186">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 8 123 373 186">
+     <span class='ocr_line' id='line_1_4' title="bbox 8 123 373 186; baseline -0.014 -17"><span class='ocrx_word' id='word_1_8' title='bbox 8 135 10 142; x_wconf 85' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 51 123 373 186; x_wconf 54' lang='lat' dir='ltr'>Babfflont&#39;anm,&gt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 214 1896 3606">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 214 1896 3606">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 214 1896 3606"><span class='ocrx_word' id='word_1_10' title='bbox 0 214 1896 3606; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 708 212 1476 243">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 708 212 1476 243">
+     <span class='ocr_line' id='line_1_6' title="bbox 708 212 1476 243; baseline -0.001 0"><span class='ocrx_word' id='word_1_11' title='bbox 708 233 717 235; x_wconf 19' lang='grc' dir='ltr'>ἡ</span> <span class='ocrx_word' id='word_1_12' title='bbox 733 212 1476 243; x_wconf 52' lang='grc' dir='ltr'><strong>--Γ--ν--Γ----</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 516 214 731 226">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 516 214 731 226">
+     <span class='ocr_line' id='line_1_7' title="bbox 516 214 731 226"><span class='ocrx_word' id='word_1_13' title='bbox 516 214 731 226; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

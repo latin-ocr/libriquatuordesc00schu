@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./libriquatuordesc00schu_0222.png"; bbox 0 0 2088 3606; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 967 96 1189 221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 967 96 1189 221">
+     <span class='ocr_line' id='line_1_1' title="bbox 1079 96 1135 144; baseline 0 -18"><span class='ocrx_word' id='word_1_1' title='bbox 1079 96 1135 144; x_wconf 67' lang='lat'><strong>§⁹0</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 967 165 1189 221; baseline 0 -14"><span class='ocrx_word' id='word_1_2' title='bbox 967 165 1189 221; x_wconf 81' lang='lat' dir='ltr'>Cyrenaeor.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 145 0 2088 3515">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 145 0 2088 3515">
+     <span class='ocr_line' id='line_1_3' title="bbox 145 0 2088 3515"><span class='ocrx_word' id='word_1_3' title='bbox 145 0 2088 3515; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 80 167 815 229">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 80 167 815 229">
+     <span class='ocr_line' id='line_1_4' title="bbox 80 167 815 229; baseline -0.007 -15"><span class='ocrx_word' id='word_1_4' title='bbox 80 171 195 215; x_wconf 73' lang='lat' dir='ltr'><strong>Anni</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 208 168 535 229; x_wconf 80' lang='lat' dir='ltr'><strong>Olymp.Mund1&#39;.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 560 167 815 226; x_wconf 71' lang='lat' dir='ltr'><strong>CaptBabyl.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
